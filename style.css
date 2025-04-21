@@ -46,6 +46,10 @@
     color: white;
     text-decoration: none;
   }
+
+  .seto{
+    text-align: center;
+  }
   
   /* ハンバーガーアイコン */
   .menu-toggle {
