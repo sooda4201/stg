@@ -1,16 +1,47 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>シューティングゲーム</title> 
-        <style>
-            canvas{
-                border:1px solid black;
-            }
-        </style>
-    </head>
-    <body>
-        <canvas id="can"></canvas>
-        <script src="main.js"></script>
-    </body>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ハンバーガーメニュー付きサイト</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1 class="logo">MySite</h1>
+
+      <!-- ハンバーガーメニューアイコン -->
+      <div class="menu-toggle" id="menu-toggle">
+        ☰
+      </div>
+
+      <!-- ナビゲーション -->
+      <nav id="nav">
+        <ul>
+          <li><a href="#">ホーム</a></li>
+          <li><a href="#">サービス</a></li>
+          <li><a href="#">会社情報</a></li>
+          <li><a href="#">お問い合わせ</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>ようこそ！</h2>
+      <p>これはハンバーガーメニュー付きのテンプレートです。</p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 MySite. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
 </html>
