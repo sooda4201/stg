@@ -70,16 +70,13 @@
     text-align: center;
   }
 
-  .men0{
-    text-align: center;
-  }
-
   .men{
     border:2px outset black;
     width: 70%;
     height: 100px;
     text-align: center;
     margin: 2px;
+    margin-left: auto;
   }
 
   /* フッター */
