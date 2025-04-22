@@ -65,6 +65,10 @@
     padding: 60px 20px;
     text-align: center;
   }
+
+  .men{
+    border:solid 3px black;
+  }
   
   /* フッター */
   footer {
