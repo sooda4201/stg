@@ -67,7 +67,10 @@
   }
 
   .men{
-    border:ridge 2px black;
+    border:2px outset black;
+    width: 70%;
+    height: 100px;
+    text-align: center;
   }
 
   /* フッター */
