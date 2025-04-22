@@ -71,11 +71,11 @@
   }
 
   .men{
-    border:2px outset black;
+    border:3px outset black;
     width: 70%;
     height: 100px;
     text-align: center;
-    margin: 2px;
+    margin: 3px;
     margin: left 250px;
   }
 
