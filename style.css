@@ -72,11 +72,19 @@
 
   .men{
     border:3px outset black;
-    width: 70%;
-    height: 100px;
+    width: 45%;
+    height: 100%;
     text-align: center;
     margin: 3px;
-    margin-left: 200px;
+  }
+
+  .men2{
+    border:3px outset black;
+    width: 45%;
+    height: 100%;
+    text-align: center;
+    margin: 3px;
+    margin-left: 50%;
   }
 
   .SNS{
