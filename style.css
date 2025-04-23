@@ -73,7 +73,6 @@
   .men{
     border:3px outset black;
     width: 45%;
-    height: 100%;
     text-align: center;
     margin: 3px;
     margin-left: 3%;
@@ -83,7 +82,6 @@
   .men2{
     border:3px outset black;
     width: 45%;
-    height: 100%;
     text-align: center;
     margin: 3px;
     margin-left: 50%;
