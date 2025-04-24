@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+  .name{
+    margin-left: -50px;
+  }
   
   body {
     font-family: sans-serif;
