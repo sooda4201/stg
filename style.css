@@ -12,7 +12,8 @@
   .irai{
     text-align: center;
     background: beige;
-    margin: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   
   body {
@@ -61,13 +62,15 @@
   .seto{
     text-align: center;
     background: beige;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .syou{
     text-align: center;
     background: beige;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   
   /* ハンバーガーアイコン */
@@ -108,19 +111,22 @@
   .naiyou{
     text-align: center;
     background: beige;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .jiseki{
     text-align: center;
     background: beige;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .sns{
     text-align: center;
     background: beige;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   h2{
