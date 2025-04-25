@@ -133,6 +133,10 @@
     text-decoration: underline;
   }
 
+  h6{
+    font-family: cursive;
+  }
+
   /* フッター */
   footer {
     background: #333;
