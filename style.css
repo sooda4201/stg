@@ -63,6 +63,7 @@
 
   .syou{
     text-align: center;
+    background:rgb(245, 220, 187);
   }
   
   /* ハンバーガーアイコン */
@@ -100,14 +101,17 @@
 
   .naiyou{
     text-align: center;
+    background:rgb(245, 220, 187);
   }
 
   .jiseki{
     text-align: center;
+    background:rgb(245, 220, 187);
   }
 
   .sns{
     text-align: center;
+    background:rgb(245, 220, 187);
   }
 
   /* フッター */
