@@ -60,10 +60,14 @@
 
   .seto{
     text-align: center;
+    background: beige;
+    margin: 5px;
   }
 
   .syou{
     text-align: center;
+    background: beige;
+    margin: 5px;
   }
   
   /* ハンバーガーアイコン */
@@ -101,14 +105,20 @@
 
   .naiyou{
     text-align: center;
+    background: beige;
+    margin: 5px;
   }
 
   .jiseki{
     text-align: center;
+    background: beige;
+    margin: 5px;
   }
 
   .sns{
     text-align: center;
+    background: beige;
+    margin: 5px;
   }
 
   h2{
