@@ -80,6 +80,10 @@
     }
     .men2{
       text-align: left;
+      margin-left: 10px;
+      .img{
+        margin-left: 50%;
+      }
     }
   }
   
