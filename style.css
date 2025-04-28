@@ -72,20 +72,10 @@
     background: beige;
     margin-left: 10px;
     margin-right: 10px;
-    .men{
-      text-align: left;
-      margin-left: 10px;
-      .img{
-        margin-left: 50%;
-      }
     }
     .men2{
       text-align: left;
       margin-left: 10px;
-      .img{
-        margin-left: 50%;
-      }
-    }
   }
   
   /* ハンバーガーアイコン */
