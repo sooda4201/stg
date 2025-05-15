@@ -90,12 +90,16 @@
   .men{
     border:3px outset black;
     width: 45%;
-    text-align: center;
+    text-align:left;
     margin: 3px;
     margin-left: 3%;
     margin-top: 5px;
     background: #f4f4f4;
     padding-right: 5px;
+      .syasin{
+    padding-right: 100px;
+    padding-top: 50px;
+  }
   }
 
   .men2{
@@ -107,10 +111,6 @@
     margin-top: -135px;
     background: #f4f4f4;
     padding-right: 5px;
-  }
-
-  .syasin{
-    padding-right: 100px;
   }
 
   .naiyou{
